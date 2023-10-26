@@ -1,0 +1,172 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "question": "What is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "question": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "question": "How are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "hello",
+      "answer": "hello how are you?"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "answer": "100 degrees"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "answer": "Yen"
+    },
+    {
+      "question": "What's the answer to the ultimate question of life, the universe, and everything?",
+      "answer": "42"
+    },
+    {
+      "question": "Name a famous physicist known for the theory of relativity.",
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "Who is the current President of the United States?",
+      "answer": "Sorry, I don't have real-time data."
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What is the purpose of life?",
+      "answer": "The purpose of life is a philosophical question with no definitive answer."
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "answer": "Blue whale"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the capital of China?",
+      "answer": "Beijing"
+    },
+    {
+      "question": "What is the main gas responsible for the greenhouse effect?",
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "question": "Who is the author of '1984'?",
+      "answer": "George Orwell"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answer": "Au"
+    },
+    {
+      "question": "What's the largest continent on Earth?",
+      "answer": "Asia"
+    },
+    {
+      "question": "What is the fundamental force that causes an apple to fall to the ground?",
+      "answer": "Gravity"
+    },
+    {
+      "question": "Who is known as the 'Father of Modern Physics'?",
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the national flower of Japan?",
+      "answer": "Cherry blossom"
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "answer": "32 degrees"
+    },
+    {
+      "question": "What is the first element on the periodic table?",
+      "answer": "Hydrogen (H)"
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "answer": "299,792,458 meters per second"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic?",
+      "answer": "Amelia Earhart"
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "answer": "H2O"
+    },
+    {
+      "question": "Who developed the theory of evolution by natural selection?",
+      "answer": "Charles Darwin"
+    },
+    {
+      "question": "What is the second-largest planet in our solar system?",
+      "answer": "Saturn"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "answer": "Carbon dioxide (CO2)"
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "What is the chemical symbol for oxygen?",
+      "answer": "O"
+    },
+    {
+      "question": "how do you feel?",
+      "answer": "i am feeling ok how do you feel?"
+    },
+    {
+      "question": "i am also feeling well ",
+      "answer": "that's wonderfully to hear"
+    }
+  ]
+}
